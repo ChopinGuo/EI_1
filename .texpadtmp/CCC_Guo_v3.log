@@ -1,0 +1,748 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2018.1.24)  16 APR 2018 22:31
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**CCC_Guo_v3.tex
+(./CCC_Guo_v3.tex
+LaTeX2e <2017-04-15>
+Babel <3.16> and hyphenation patterns for 84 language(s) loaded.
+(./cccconf.cls
+Document Class: cccconf 2010/02/10
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/preprint/balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen103
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+\titleb@x=\box26
+\c@affno=\count90
+\@afflist=\toks16
+\@abstract=\box27
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count91
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+)
+
+Package epstopdf Warning: Drivers other than `pdftex' and `luatex' are not supp
+orted.
+
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen114
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen115
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks18
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks19
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks20
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2018/01/06 v0.67 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+)
+\XKV@depth=\count104
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count105
+\pstFP@xia=\count106
+\pstFP@xib=\count107
+\pstFP@xfa=\count108
+\pstFP@xfb=\count109
+\pstFP@rega=\count110
+\pstFP@regb=\count111
+\pstFP@regs=\count112
+\pstFP@times=\count113
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks24
+\pgfutil@tempdima=\dimen123
+\pgfutil@tempdimb=\dimen124
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks27
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen125
+\pgf@xa=\dimen126
+\pgf@xb=\dimen127
+\pgf@xc=\dimen128
+\pgf@y=\dimen129
+\pgf@ya=\dimen130
+\pgf@yb=\dimen131
+\pgf@yc=\dimen132
+\c@pgf@counta=\count114
+\c@pgf@countb=\count115
+\c@pgf@countc=\count116
+\c@pgf@countd=\count117
+\pgfutil@tempcnta=\count118
+\pgfutil@tempcntb=\count119
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen133
+\pgfmath@count=\count120
+\pgfmath@box=\box30
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count121
+))
+\pgffor@iter=\dimen134
+\pgffor@skip=\dimen135
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+)
+\psLoopIndex=\count122
+
+`PSTricks' v2.82  <2018/01/06> (tvz,hv)
+\pst@dima=\dimen136
+\pst@dimb=\dimen137
+\pst@dimc=\dimen138
+\pst@dimd=\dimen139
+\pst@dimg=\dimen140
+\pst@dimh=\dimen141
+\pst@dimm=\dimen142
+\pst@dimn=\dimen143
+\pst@dimo=\dimen144
+\pst@dimp=\dimen145
+\pst@hbox=\box31
+\pst@ibox=\box32
+\pst@boxg=\box33
+\pst@cnta=\count123
+\pst@cntb=\count124
+\pst@cntc=\count125
+\pst@cntd=\count126
+\pst@cntg=\count127
+\pst@cnth=\count128
+\pst@cntm=\count129
+\pst@cntn=\count130
+\pst@cnto=\count131
+\pst@cntp=\count132
+\@zero=\count133
+\pst@toks=\toks33
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen146
+\psxunit=\dimen147
+\psyunit=\dimen148
+\pst@C@@rType=\count134
+\pslinewidth=\dimen149
+\psk@startLW=\dimen150
+\psk@endLW=\dimen151
+\pst@customdefs=\toks34
+\pslinearc=\dimen152
+\pst@symbolStep=\dimen153
+\pst@symbolWidth=\dimen154
+\pst@symbolLinewidth=\dimen155
+\everypsbox=\toks35
+\psframesep=\dimen156
+\pslabelsep=\dimen157
+\sh@wgridXunit=\dimen158
+\sh@wgridYunit=\dimen159
+\pst@shift=\dimen160
+)
+File: pstricks.tex 2018/01/06 v2.82 `PSTricks' (tvz,hv)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2018/01/06 v2.82 `PST-fp' (hv)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pst-node/pst-node.sty
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pst-node/pst-node.tex
+ v1.41, 2017/12/30
+\psrow=\count135
+\pscol=\count136
+\psmatrixcnt=\count137
+\psrowsep=\skip48
+\pscolsep=\skip49
+\pst@args=\count138
+\num@pts=\count139
+\pst@argcnt=\count140
+)
+File: pst-node.tex 2017/12/30 1.41 `pst-node' (tvz,hv)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pst-tree/pst-tree.sty
+Package: pst-tree 2009/01/25 package wrapper for pst-tree.tex
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pst-tree/pst-tree.tex
+ v1.13, 2017/02/18(tvz,dg,hv)
+\pstree@rootbox=\box34
+\pstree@box=\box35
+\psnodecnt=\count141
+\pstreelevel=\count142
+\pstreecnt=\count143
+\pstree@cnt=\count144
+\pstree@stop=\count145
+)
+File: pst-tree.tex 2017/02/18 1.13 `pst-tree' (tvz,hv)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pstricks-add/pstricks-add.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pst-plot/pst-plot.sty
+Package: pst-plot 2011/06/05 v1.00 LaTeX wrapper for `pst-plot' (HV)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/pst-xkey.sty
+Package: pst-xkey 2005/11/25 v1.6 package wrapper for pst-xkey.tex (HA)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/multido/multido.sty
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/multido/multido.tex
+ v1.42, 2010/05/14 <tvz>
+\multido@count=\count146
+\multidocount=\count147
+\multido@stuff=\toks36
+)
+File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
+)
+Package: pst-plot 2011/04/13 package wrapper for pst-plot.tex (hv)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pst-plot/pst-plot.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pst-tools/pst-tools.tex
+`PST-tools' v0.09b, 2017/12/03 (hv))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pstricks-add/pstricks-add.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pst-arrow/pst-arrow.tex
+`pst-arrow' v0.01, 2016/09/01 (dr,hv)
+\pshooklength=\dimen161
+\pshookwidth=\dimen162
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pst-3d/pst-3d.tex
+`PST-3d' v1.11, 2010/02/14 (tvz))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pst-math/pst-math.tex
+`pst-math' v0.63 , (CJ,hv)) `pstricks-add' v3.84, 2017/09/16 (dr,hv)
+\psparallelogramsep=\dimen163
+\pst@cntC=\count148
+\chart@ColorIndex=\dimen164
+\chart@ColorStep=\dimen165
+\pst@chartHeight=\dimen166
+\pst@chartStackDepth=\dimen167
+\pst@chartStackWidth=\dimen168
+\chart@Toggle=\count149
+\psVectorCtr=\count150
+)
+ v1.87, 2017/12/12 (tvz,hv)
+\pstRadUnit=\dimen169
+\pstRadUnitInv=\dimen170
+\pst@linecnt=\count151
+\RCD@file=\read1
+\psxlabelsep=\dimen171
+\psylabelsep=\dimen172
+\psk@subticksize=\dimen173
+\pst@xticksizeA=\dimen174
+\pst@xticksizeB=\dimen175
+\pst@xticksizeC=\dimen176
+\pst@yticksizeA=\dimen177
+\pst@yticksizeB=\dimen178
+\pst@yticksizeC=\dimen179
+\@digitcounter=\count152
+\psk@llx=\dimen180
+\psk@lly=\dimen181
+\psk@urx=\dimen182
+\psk@ury=\dimen183
+\pst@xunit=\dimen184
+\pst@yunit=\dimen185
+)
+File: pst-plot.tex 2017/12/12 1.87 `pst-plot' (tvz,hv)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pst-3d/pst-3d.sty
+Package: pst-3d 2009/07/28 package wrapper for pst-3d.tex (hv)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pst-3d/pst-3d.tex)
+File: pst-3d.tex 2017/12/12 v1.87 `PST-3d' (hv)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pst-math/pst-math.sty
+Package: pst-math 2014/07/30 package wrapper for PSTricks pst-math.tex
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pst-math/pst-math.tex)
+File: pst-math.tex 2017/12/12 v1.87 `PST-math' (hv)
+)
+Package: pstricks-add 2010/02/11 v. 0.14 package wrapper for pstricks-add.tex (
+hv)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pstricks-add/pstricks-add.tex)
+File: pstricks-add.tex 2017/12/12 v1.87 `PSTricks-add' (hv)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\c@condition=\count153
+\c@assumption=\count154
+\c@colloary=\count155
+\c@theorem=\count156
+\c@proposition=\count157
+\c@lemma=\count158
+\c@example=\count159
+\c@notation=\count160
+\c@definition=\count161
+\c@remark=\count162
+
+(/Users/guoshaopan/Code/EI_1/.texpadtmp/CCC_Guo_v3.aux)
+\openout1 = `CCC_Guo_v3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 25.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(48.36958pt, 500.7687pt, 48.36958pt)
+* v-part:(T,H,B)=(56.9055pt, 725.54538pt, 62.59596pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=500.7687pt
+* \textheight=725.54538pt
+* \oddsidemargin=-23.9004pt
+* \evensidemargin=-23.9004pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=19.91684pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
+LaTeX Font Info:    Try loading font information for U+msa on input line 76.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 76.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\OT1/ptm/m/n/10 where $\OML/cmm/m/it/10 !$ \OT1/ptm/m/n/10 is the ex-ter-nal di
+s-tur-bances and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+[]\OT1/ptm/m/it/10 Consensus is achieved if and only if
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\OT1/ptm/m/n/10 where $\OML/cmm/m/it/10 A[] \OT1/cmr/m/n/10 = [] \OMS/cmsy/m/n/
+10 2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\OT1/cmr/bx/n/10 R[]$\OT1/ptm/m/n/10 , $\OML/cmm/m/it/10 "[] \OT1/cmr/m/n/10 = 
+[][] \OML/cmm/m/it/10 ; B[] \OT1/cmr/m/n/10 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+[]\OT1/ptm/m/n/10 Evidently, $\OML/cmm/m/it/10 V[]$ \OT1/ptm/m/n/10 is positive
+-definite and $\OML/cmm/m/it/10 V[] \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+./CCC_Guo_v3.tex:290: Package amsmath Error: Erroneous nesting of equation stru
+ctures;
+(amsmath)                trying to recover with `aligned'.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290 \end{align}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (13.64767pt too wide) detected at line 291
+[][]
+ []
+
+
+./CCC_Guo_v3.tex:299: Package amsmath Error: Erroneous nesting of equation stru
+ctures;
+(amsmath)                trying to recover with `aligned'.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.299   \end{align}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./CCC_Guo_v3.tex:307: Package amsmath Error: Erroneous nesting of equation stru
+ctures;
+(amsmath)                trying to recover with `aligned'.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.307 \end{align}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[3]
+
+./CCC_Guo_v3.tex:362: Package amsmath Error: Erroneous nesting of equation stru
+ctures;
+(amsmath)                trying to recover with `aligned'.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.362 \end{align}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (9.18529pt too wide) detected at line 442
+[][]
+ []
+
+
+Overfull \hbox (9.07431pt too wide) detected at line 465
+[][]
+ []
+
+[4]
+Overfull \hbox (0.78775pt too wide) detected at line 490
+[][]
+ []
+
+
+LaTeX Font Warning: Command \huge invalid in math mode on input line 497.
+
+
+LaTeX Font Warning: Command \huge invalid in math mode on input line 497.
+
+
+LaTeX Font Warning: Command \huge invalid in math mode on input line 498.
+
+
+LaTeX Font Warning: Command \huge invalid in math mode on input line 498.
+
+
+LaTeX Font Warning: Command \huge invalid in math mode on input line 499.
+
+
+LaTeX Font Warning: Command \huge invalid in math mode on input line 499.
+
+File: figures/consensus_errors.eps Graphic file (type eps)
+<figures/consensus_errors.eps>
+File: figures/estimation_errors.eps Graphic file (type eps)
+ <figures/estimation_errors.eps>
+(/Users/guoshaopan/Code/EI_1/.texpadtmp/CCC_Guo_v3.bbl [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [6]
+(/Users/guoshaopan/Code/EI_1/.texpadtmp/CCC_Guo_v3.aux) )
+(\end occurred when \ifx on line 161 was incomplete) 
+Here is how much of TeX's memory you used:
+ 12289 strings out of 492981
+ 211205 string characters out of 6132535
+ 357015 words of memory out of 5000000
+ 15626 multiletter control sequences out of 15000+600000
+ 15707 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,14n,53p,1385b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on /Users/guoshaopan/Code/EI_1/.texpadtmp/CCC_Guo_v3.dvi (6 page
+s, 68268 bytes).

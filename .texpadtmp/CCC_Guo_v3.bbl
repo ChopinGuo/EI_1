@@ -1,0 +1,111 @@
+\begin{thebibliography}{10}
+
+\bibitem{Li2010Consensus}
+Z.~Li, Z.~Duan, G.~Chen, and L.~Huang, ``Consensus of multiagent systems and
+  synchronization of complex networks: a unified viewpoint,'' {\em IEEE
+  Transactions on Circuits \& Systems Part I Regular Papers}, vol.~57, no.~1,
+  pp.~213--224, 2010.
+
+\bibitem{Olfati2007Consensus}
+R.~Olfati-Saber, J.~A. Fax, and R.~M. Murray, ``Consensus and cooperation in
+  networked multi-agent systems,'' {\em Proceedings of the IEEE}, vol.~95,
+  no.~1, pp.~215--233, 2007.
+
+\bibitem{Ren2007Information}
+W.~Ren, R.~W. Beard, and E.~M. Atkins, ``Information consensus in multivehicle
+  cooperative control,'' {\em IEEE Control Systems}, vol.~27, no.~2,
+  pp.~71--82, 2007.
+
+\bibitem{Olfati2004Consensus}
+R.~Olfati-Saber and R.~M. Murray, ``Consensus problems in networks of agents
+  with switching topology and time-delays,'' {\em IEEE Transactions on
+  Automatic Control}, vol.~49, no.~9, pp.~1520--1533, 2004.
+
+\bibitem{Ding2016Distributed}
+Z.~Ding and Z.~Li, {\em Distributed adaptive consensus control of nonlinear
+  output-feedback systems on directed graphs}.
+\newblock Pergamon Press, Inc., 2016.
+
+\bibitem{Li2016Distributed}
+Z.~Li, M.~Z.~Q. Chen, and Z.~Ding, {\em Distributed adaptive controllers for
+  cooperative output regulation of heterogeneous agents over directed graphs}.
+\newblock Pergamon Press, Inc., 2016.
+
+\bibitem{Ren2005Consensus}
+W.~Ren and R.~W. Beard, ``Consensus seeking in multiagent systems under
+  dynamically changing interaction topologies,'' {\em IEEE Transactions on
+  Automatic Control}, vol.~50, no.~5, pp.~655--661, 2005.
+
+\bibitem{Li2013Consensus}
+Li, Ren, Liu, and Fu, ``Consensus of multi-agent systems with general linear
+  and lipschitz nonlinear dynamics using distributed adaptive protocols,'' {\em
+  IEEE Transactions on Automatic Control}, vol.~58, no.~7, pp.~1786--1791,
+  2013.
+
+\bibitem{Zheng2008On}
+Q.~Zheng, L.~Q. Gaol, and Z.~Gao, ``On stability analysis of active disturbance
+  rejection control for nonlinear time-varying plants with unknown dynamics,''
+  in {\em Decision and Control, 2007 IEEE Conference on}, pp.~3501--3506, 2008.
+
+\bibitem{Gao2015Active}
+Z.~Gao, ``Active disturbance rejection control: From an enduring idea to an
+  emerging technology,'' in {\em International Workshop on Robot Motion and
+  Control}, pp.~269--282, 2015.
+
+\bibitem{Han2009From}
+J.~Han, ``From pid to active disturbance rejection control,'' {\em IEEE
+  Transactions on Industrial Electronics}, vol.~56, no.~3, pp.~900--906, 2009.
+
+\bibitem{Li2014Disturbance}
+S.~Li, J.~Yang, W.~H. Chen, and X.~Chen, ``Disturbance observer based
+  control,'' {\em Crc Press}, 2014.
+
+\bibitem{Guo2012}
+B.~Z. Guo and Z.~L. Zhao, ``On convergence of non-linear extended state
+  observer for multi-input multi-output systems with uncertainty,'' {\em IET
+  Control Theory Applications}, vol.~6, pp.~2375--2386, Oct 2012.
+
+\bibitem{Sun2017Sampled}
+J.~Sun, J.~Yang, S.~Li, and W.~X. Zheng, ``Sampled-data-based event-triggered
+  active disturbance rejection control for disturbed systems in networked
+  environment,'' {\em IEEE Transactions on Cybernetics}, vol.~PP, no.~99,
+  pp.~1--11, 2017.
+
+\bibitem{Wang2016Consensus}
+X.~Wang and S.~Li, ``Consensus disturbance rejection control for second-order
+  multi-agent systems via nonsingular terminal sliding-mode control,'' in {\em
+  International Workshop on Variable Structure Systems}, pp.~114--119, 2016.
+
+\bibitem{XiangyuWangTAC2017}
+X.~Wang, S.~Li, X.~Yu, and J.~Yang, ``Distributed active anti-disturbance
+  consensus for leader-follower higher-order multi-agent systems with
+  mismatched disturbances,'' {\em IEEE Transactions on Automatic Control},
+  vol.~62, pp.~5795--5801, Nov 2017.
+
+\bibitem{DongCCC2017}
+J.~Yu, X.~Dong, Q.~Li, and Z.~Ren, ``Practical time-varying formation tracking
+  control for second-order nonlinear multi-agent systems based on the
+  distributed extend state observer,'' in {\em 2017 36th Chinese Control
+  Conference (CCC)}, pp.~8725--8730, July 2017.
+
+\bibitem{Qin2014}
+W.~Qin, Z.~Liu, and Z.~Chen, ``Formation control for nonlinear multi-agent
+  systems with linear extended state observer,'' {\em IEEE/CAA Journal of
+  Automatica Sinica}, vol.~1, pp.~171--179, April 2014.
+
+\bibitem{Huang2017}
+Y.~Huang, J.~Wang, D.~Shi, and L.~Shi, ``Towards event-triggered extended state
+  observer,'' {\em IEEE Transactions on Automatic Control}, vol.~PP, no.~99,
+  pp.~1--1, 2017.
+
+\bibitem{Zheng2008}
+Q.~Zheng, L.~Q. Gaol, and Z.~Gao, ``On stability analysis of active disturbance
+  rejection control for nonlinear time-varying plants with unknown dynamics,''
+  in {\em 2007 46th IEEE Conference on Decision and Control}, pp.~3501--3506,
+  Dec 2007.
+
+\bibitem{Matrix}
+D.Bernstein, {\em Matrix Mathematics: Theory, Facts, and Formulas.}
+\newblock Princeton, NJ: Princeton University Press, 2009.
+
+\end{thebibliography}
